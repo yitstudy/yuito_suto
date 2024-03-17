@@ -8,8 +8,8 @@ My name is Yuito. I am learning Ruby on Rails and Next.js to become a Web engine
 ### Contributing
 - Coming Soon...!
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=html,css,js,react,nextjs,ruby,rails,)](https://skillicons.dev)
+### Skills
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,ruby,rails)](https://skillicons.dev)
 
 <a href="https://github.com/yuito22suto/yuito22suto">
     <img src="https://komarev.com/ghpvc/?username=yuito22suto" alt="yuito22suto" />
