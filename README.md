@@ -1,6 +1,6 @@
 # Yuito Suto
 ### Hi there 👋
-My name is Yuito. I am learning Ruby on Rails and Next.js to become a Web engineer. I plan to contribute to OSS. I like hacker culture.
+My name is Yuito. I am learning Java(and Ruby on Rails) and Next.js to become a Web engineer. I plan to contribute to OSS. I like hacker culture.
 
 ## Basic Information
 - I am looking to move to a web-based in-house development company with a modern technology stack
