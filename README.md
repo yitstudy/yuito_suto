@@ -11,7 +11,7 @@ My name is Yuito. I am learning Java(and Ruby on Rails) and Next.js to become a 
 - Markdown ver.
 
 ## Skills
-[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,vue,react,nextjs,ruby,rails,php,laravel,java,spring,go,mongodb,aws,gcp,docker,figma,webflow)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,ts,nodejs,react,nextjs,aws,gcp,docker,figma,webflow)](https://skillicons.dev)
 
 ## Blog Posts
 
